@@ -2,4 +2,8 @@ Project Goals:
 - Learn Git deeply
 - Simulate real dev flows
 - Avoid focusing on code
+<<<<<<< HEAD
 - Respect Git best practices
+=======
+- Learn Git through conflicts
+>>>>>>> 0c5a3f5 (Dev B: Add point about learning through conflicts)
