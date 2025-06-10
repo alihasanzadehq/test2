@@ -1,0 +1,4 @@
+Project Goals:
+- Learn Git deeply
+- Simulate real dev flows
+- Avoid focusing on code
