@@ -2,3 +2,4 @@ Project Goals:
 - Learn Git deeply
 - Simulate real dev flows
 - Avoid focusing on code
+- Respect Git best practices
